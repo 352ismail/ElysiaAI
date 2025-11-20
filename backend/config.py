@@ -1,10 +1,11 @@
 import os 
 def main():
-    if "GOOGLE_API_KEY" not in os.environ:
-        os.environ["GOOGLE_API_KEY"] = "AIzaSyAqx_F8RNkh5vFABJYKsBFh_A4FPOcZ0vE"
+    pass
+    # if "GOOGLE_API_KEY" not in os.environ:
+    #     os.environ["GOOGLE_API_KEY"] = "your_google_api_key_here"
         
-    if "BACKEND_URL" not in os.environ:
-        os.environ["BACKEND_URL"] = "http://localhost:8000/ask"
+    # if "BACKEND_URL" not in os.environ:
+    #     os.environ["BACKEND_URL"] = "http://localhost:8000/ask"
     
 if __name__ == "__main__":
     main()
