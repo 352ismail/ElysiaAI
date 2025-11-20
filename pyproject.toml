@@ -1,3 +1,5 @@
+[tool.fastapi]
+app = "src.main:app"
 [project]
 name = "elysiaai"
 version = "0.1.0"

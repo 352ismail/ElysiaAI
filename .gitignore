@@ -1,43 +1,11 @@
 # Python-generated files
 __pycache__/
 *.py[oc]
-*.pyd
-*.pyc
-*.pyo
-.Python
 build/
 dist/
 wheels/
-*.egg-info/
-htmlcov/
-.coverage
-.mypy_cache/
-.pytest_cache/
-.pyre/
-.ipynb_checkpoints/
+*.egg-info
 
 # Virtual environments
-.venv/
-venv/
-env/
-
-# Environment variables
-.env
-.flaskenv
-
-# uv lock file
-uv.lock
-
-# Editor/IDE specific files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-*.bak
-*.swp
-*.swo
-
-# OS generated files
-.DS_Store
-Thumbs.db
+.venv
 
