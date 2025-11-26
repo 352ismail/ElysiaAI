@@ -12,3 +12,7 @@ pydantic>=2.12.4
 requests>=2.32.5
 streamlit>=1.51.0
 uvicorn>=0.38.0
+#vectorstores
+langchain-pinecone
+#embeddings models
+langchain-cohere
